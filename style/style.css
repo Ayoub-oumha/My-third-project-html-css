@@ -95,16 +95,16 @@ header nav .list .research i {
     height: 100vh;
     overflow: hidden;
     width: 100%;
-    
 }
 .section-one .container .image img {
     object-position: center ;
-    height: 100vh;
+    
     filter: opacity(40%);
+    width: 100%;
 }
 .section-one .container .paragraf {
     width: 36%;
-    margin-top: 23%;
+    margin-top: 13%;
     background-color: #19c9fa7b;
     padding: 45px 80px;
     position: absolute;
